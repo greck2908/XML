@@ -1,0 +1,11 @@
+<about_me>
+	<First_name>Anatoly</First_name>
+	<Last_name>Greck</Last_name>
+	<age>31</age>
+	<pets>
+		<nember>1</nember>
+		<animal_breed>dog</animal_breed>
+		<name>Rich</name>
+	</pets>
+	<desired_salary>950$</desired_salary>
+</about_me>
