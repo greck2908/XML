@@ -1,0 +1,19 @@
+<skills>
+	<one>Software testing theory</one>
+	<two>HTTP server request methods</two>
+	<three>HTTP server response codes</three>
+	<four>Client-server architecture</four>
+	<five>Structures of HTTP requests and responses</five>
+	<six>JSON, XML</six>
+	<seven>API testing via Postman JS autotest</seven>
+	<eight>Removing and reading logs from an externalserver</eight>
+	<nine>DevTools of web brausers Google Chrome, Firefox</nine>
+	<ten>Sniffing http web traffic through Charles and Fiddler</ten>
+	<eleven>VPN. How it works</eleven>
+	<twelve>Mobile testing</twelve>
+	<thirteen>Build Android applications on Android Studio</thirteen>
+	<fourteen>ADB management of Android devices</fourteen>
+	<fifteen>Command Line (terminal, Bash, PowerShell)</fifteen>
+	<sixteen>Basics of SQL</sixteen>
+	<seventeen>Load testing JMeter</seventeen>
+</skills>
